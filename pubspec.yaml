@@ -1,4 +1,4 @@
-name: flutter_aleo_delagate_sdk
+name: flutter_aleo_delgete_sdk
 description: "A sdk for aleo to generate delegate data, use flutter_rust_bridge to call rust api"
 version: 0.0.1
 homepage:
